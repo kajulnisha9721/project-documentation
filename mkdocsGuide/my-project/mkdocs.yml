@@ -1,0 +1,16 @@
+site_name: MyProjectDocs
+site_url: https://example.com/
+
+# Theme configuration
+theme:
+  name: readthedocs
+  logo : logo/logo.png
+
+
+# Navigation Menu
+nav:
+  - Home: index.md  
+  - About: about.md  
+  - User Guide:
+    - Help:
+      - How to report a problem: guide/help.md
